@@ -11,7 +11,7 @@ let check = function(){
     let paySystem;
     let accepted;
 
-    let MasterCard = ['51','52','53','54','55'];
+    let MasterCard = ['51','52','53','54','55','22','23','24','25','26','27'];
     let Maestro = ['50','56','57','58','63','67'];
 
 
